@@ -1,6 +1,7 @@
 
 .layout {
   display: flex;
+  background-color: #002D73 !important;
 
   @include media-breakpoint-down('lg') {
     flex-direction: column;
